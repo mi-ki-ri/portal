@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://mi-ki-ri.github.io/portal/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mi-ki-ri.github.io/portal/tags/</loc>
     <priority>0</priority>
   </url>
