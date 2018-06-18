@@ -1,3 +1,21 @@
-{{ range $key, $value := .Data.Terms }}
-<a href="{{ $key | urlize }}">{{ $key }} <span class="tags_number">{{ len $value }}</span></a>
-{{ end }}
+{{ partial "site_header.html" . }}
+
+<header>
+  <h1>{{ .Title }}</h1>
+</header>
+
+<ul>
+  <li>
+    {{ range first 10 .Data.Pages }}
+      <a href="{{.Permalink}}">
+        {{ .Title}}
+      </a>
+      <ul>
+        {{ range .Params.tags }}
+          <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </li>
+</ul>
+{{ partial "site_footer.html" . }}

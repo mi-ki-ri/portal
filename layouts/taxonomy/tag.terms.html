@@ -1,4 +1,16 @@
-{{ range .Data.Pages }}
-  {{ .Date.Format "2006-01-02" }}
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-{{ end }}
+{{ partial "site_header.html" . }}
+
+<header>
+  <h1>{{ .Title }}</h1>
+</header>
+
+<ul>
+  <li>
+    {{ range first 10 .Data.Pages }}
+      <a href="{{.Permalink}}">
+        {{.Title}}
+      </a>
+    {{ end }}
+  </li>
+</ul>
+{{ partial "site_footer.html" . }}
