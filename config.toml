@@ -1,3 +1,4 @@
 baseURL = "https://mi-ki-ri.github.io/portal/"
 languageCode = "jp"
 title = "ミキリハッシャポータル -見切り発車Pが作った楽曲の情報サイト-"
+canonifyurls = true
