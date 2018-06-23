@@ -1,8 +1,6 @@
 {{ partial "site_header.html" . }}
 
-<header>
-  <h1>{{ .Site.Title }}</h1>
-</header>
+
 
 <ul>
   <li>
@@ -18,4 +16,8 @@
     {{ end }}
   </li>
 </ul>
+
+
+{{ partial "content_side.html" }}
+
 {{ partial "site_footer.html" . }}
