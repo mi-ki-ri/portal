@@ -1,8 +1,9 @@
-<nav>
-  <ul>
+<nav class="nav">
+  <h2>データ</h2>
+  <ul class="dataList">
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-      <li><a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
-        <ul>
+      <li><h3>{{ $taxonomyname }}</h3>
+        <ul class="taxList">
           {{ range $key, $value := $taxonomy }}
           <li> <a href="/{{ $taxonomyname | urlize }}/{{ $key | urlize }}">{{$key }} </a> </li>
           {{ end }}

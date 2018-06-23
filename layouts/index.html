@@ -5,19 +5,21 @@
 
 
     <section class="mainContents">
-
-      <main>
+      <main class="cdrack">
+        <article class="cd"><h2>{{ .Title }}の一覧</h2></article>
         {{ range first 10 .Data.Pages }}
-          <article>
-            <a href="{{.Permalink}}">
-              {{ .Title}}
-            </a>
-            <ul>
+          <article class="cd">
+            <h3>
+              <a href="{{.Permalink}}">
+                {{ .Title}}
+              </a>
+            </h3>
+            <ul class="tags">
               {{ range .Params.tags }}
-                <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>, </li>
               {{ end }}
             </ul>
-            {{ .Site.Params.DlURL  }}{{ .Params.DlPath }}
+            <a href="{{ .Site.Params.DlURL  }}{{ .Params.DlPath }}">DL</a>
 
           </article>
         {{ end }}

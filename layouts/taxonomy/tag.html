@@ -1,21 +1,35 @@
 {{ partial "site_header.html" . }}
+<div class="wrapper">
 
-<header>
-  <h1>{{ .Title }}</h1>
-</header>
+  {{ partial "content_header.html" . }}
 
-<ul>
-  <li>
-    {{ range first 10 .Data.Pages }}
-      <a href="{{.Permalink}}">
-        {{ .Title}}
-      </a>
-      <ul>
-        {{ range .Params.tags }}
-          <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+
+    <section class="mainContents">
+      <main class="cdrack">
+        <article class="cd"><h2>{{ .Title }}の一覧</h2></article>
+        {{ range first 10 .Data.Pages }}
+          <article class="cd">
+            <h3>
+              <a href="{{.Permalink}}">
+                {{ .Title}}
+              </a>
+            </h3>
+            <ul class="tags">
+              {{ range .Params.tags }}
+                <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>, </li>
+              {{ end }}
+            </ul>
+            <a href="{{ .Site.Params.DlURL  }}{{ .Params.DlPath }}">DL</a>
+
+          </article>
         {{ end }}
-      </ul>
-    {{ end }}
-  </li>
-</ul>
+      </main>
+
+      {{ partial "content_side.html" . }}
+    </section>
+
+
+  {{ partial "content_footer.html" . }}
+
+</div>
 {{ partial "site_footer.html" . }}

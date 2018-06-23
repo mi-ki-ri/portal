@@ -1,13 +1,15 @@
 * {
 	margin: 0;
 	padding: 0;
-
+  box-sizing: border-box;
 }
 
 body{
   font-size: 16px;
   color: #222;
 }
+
+
 
 .wrapper{
   width: 100%;
@@ -23,10 +25,118 @@ body{
 
 .mainContents{
   width: 100%;
-  height: 70vh;
+  height: 80vh;
 
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  overflow-x: hidden;
+  overflow-y: scroll;
 
 }
+
+.cdrack{
+  width: 85%;
+  height:100vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.cd{
+  width: 330px;
+  height: 330px;
+  border-radius: 50%;
+  padding:20px;
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+
+  color: #f0f0f0;
+
+}
+
+.cd a{
+  color: #f0f0f0;
+}
+
+.cd a:hover{
+  text-decoration: none;
+}
+
+.cd .tags{
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+
+.cdrack>article:nth-of-type(12n + 0){
+  background-color: #c66666;
+}
+
+.cdrack>article:nth-of-type(12n + 1){
+  background-color: #cc6666;
+}
+
+.cdrack>article:nth-of-type(12n + 2){
+  background-color: #66c666;
+}
+
+
+.cdrack>article:nth-of-type(12n + 3){
+  background-color: #6cc666;
+}
+
+.cdrack>article:nth-of-type(12n + 4){
+  background-color: #66c666;
+}
+
+.cdrack>article:nth-of-type(12n + 5){
+  background-color: #66cc66;
+}
+
+.cdrack>article:nth-of-type(12n + 6){
+  background-color: #666c66;
+}
+
+.cdrack>article:nth-of-type(12n + 7){
+  background-color: #666cc6;
+}
+
+.cdrack>article:nth-of-type(12n + 8){
+  background-color: #6666c6;
+}
+
+.cdrack>article:nth-of-type(12n + 9){
+  background-color: #6666cc;
+}
+
+.cdrack>article:nth-of-type(12n + 10){
+  background-color: #66666c;
+}
+
+.cdrack>article:nth-of-type(12n + 11){
+  background-color: #c6666c;
+}
+
+.nav{
+  width: 15%;
+  height: 100vh;
+}
+
+.dataList,
+.taxList{
+  list-style: none;
+}
+
 .header{
   width: 100%;
   height: 10vh;
@@ -50,7 +160,7 @@ body{
 }
 .footer{
   width: 100%;
-  height: 20vh;
+  height: 10vh;
   background-color: #111;
   color: #f0f0f0;
 }
