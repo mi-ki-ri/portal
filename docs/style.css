@@ -1,6 +1,12 @@
 * {
 	margin: 0;
 	padding: 0;
+
+}
+
+body{
+  font-size: 16px;
+  color: #222;
 }
 
 .wrapper{
@@ -24,10 +30,21 @@
 .header{
   width: 100%;
   height: 10vh;
-  background-color: #222;
+  background-color: #111;
+  color: #f0f0f0;
+}
+.header h1{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.header h1 span,
+.header h1 small{
+  font-size: 1rem;
 }
 .footer{
   width: 100%;
   height: 20vh;
-  background-color: #222;
+  background-color: #111;
+  color: #f0f0f0;
 }
