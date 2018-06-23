@@ -24,7 +24,7 @@
           </article>
         {{ end }}
         {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
-          <article>
+          <article class="cd">
 
             {{ if .Paginator.HasPrev }}
             <a href="{{ .Paginator.Prev.URL }}">前へ</a>
