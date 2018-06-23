@@ -75,12 +75,12 @@ body{
   flex-direction: column;
   text-align: center;
 
-  color: #f0f0f0;
+  color: #222;
 
 }
 
 .cd a{
-  color: #f0f0f0;
+  color: #222;
 }
 
 .cd a:hover{
