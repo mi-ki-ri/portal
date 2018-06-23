@@ -28,12 +28,27 @@ body{
   height: 80vh;
 
   display: flex;
-  justify-content: center;
+  justify-content:space-between ;
   align-items: flex-start;
 
   overflow-x: hidden;
   overflow-y: scroll;
 
+}
+
+.postContent{
+  width: 85%;
+  height:100vh;
+}
+.postData{
+  width: 15%;
+  height: 100vh;
+}
+.postData ul {
+  list-style: none;
+}
+.postData dt{
+  font-weight: bold;
 }
 
 .cdrack{

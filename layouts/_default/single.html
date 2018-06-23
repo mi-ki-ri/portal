@@ -1,9 +1,40 @@
 {{ partial "site_header.html" . }}
+<div class="wrapper">
 
-<header>
-  <h1>{{ .Site.Title }}</h1>
-</header>
-<h2>{{.Title}}</h2>
-<div>{{ .Content }}</div>
+  {{ partial "content_header.html" . }}
 
+
+    <section class="mainContents">
+      <main class="postcontent">
+
+        {{.Content}}
+      </main>
+      <nav class="postdata">
+        <dl>
+          <dt>
+            作曲年月日
+          </dt>
+          <dd>
+            {{.Params.originalDate}}
+          </dd>
+          <dt>
+            タグ
+          </dt>
+          <dd>
+            <ul class="tags">
+              {{ range .Params.tags }}
+                <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>, </li>
+              {{ end }}
+            </ul>
+          </dd>
+        </dL>
+      </nav>
+
+
+    </section>
+
+
+  {{ partial "content_footer.html" . }}
+
+</div>
 {{ partial "site_footer.html" . }}
