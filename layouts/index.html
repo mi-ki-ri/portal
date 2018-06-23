@@ -5,6 +5,7 @@
 
 
     <section class="mainContents">
+
       <main>
         {{ range first 10 .Data.Pages }}
           <article>
@@ -16,9 +17,12 @@
                 <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
               {{ end }}
             </ul>
+            {{.Site.BaseURL}} {{.Site.Params.DlPath}} {{ .Params.Dlfile }}
+
           </article>
         {{ end }}
       </main>
+
       {{ partial "content_side.html" . }}
     </section>
 
