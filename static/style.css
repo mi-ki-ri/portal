@@ -96,7 +96,7 @@ body{
 }
 
 .cdrack>article{
-  background-color: rgba(255,200,200,1);
+  background-color: rgba(255,200,200,0.5);
   box-shadow: 2px 2px 2px #999;
 }
 
