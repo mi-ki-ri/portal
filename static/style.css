@@ -79,7 +79,8 @@ body{
 
 .cdrack>article{
   background-color: rgba(255,128,128,1);
-  box-shadow: 1px 1px 1px #333;
+  filter: opacity(50%);
+  box-shadow: 2px 2px 2px #999;
 }
 
 .cdrack>article:nth-of-type(12n + 0){
