@@ -12,10 +12,33 @@
       <nav class="postdata">
         <dl>
           <dt>
+            ダウンロード
+          </dt>
+          <dd>
+            <a href="{{ .Site.Params.DlURL  }}{{ .Params.DlPath }}">{{ .Site.Params.DlURL  }}{{ .Params.DlPath }}</a>
+          </dd>
+          <dt>
             作曲年月日
           </dt>
           <dd>
             {{.Params.originalDate}}
+          </dd>
+          <dt>
+            曲長さ
+          </dt>
+          <dd>
+            {{.Params.originalLength}}
+          </dd>
+          <dt>
+            関連URL
+          </dt>
+          <dd>
+            <ul class="tags">
+              {{ range .Params.Links }}
+                <li><a href="{{ . }}">{{.}}</a>
+                </li>
+              {{ end }}
+            </ul>
           </dd>
           <dt>
             タグ
@@ -23,7 +46,7 @@
           <dd>
             <ul class="tags">
               {{ range .Params.tags }}
-                <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>, </li>
+                <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
               {{ end }}
             </ul>
           </dd>
