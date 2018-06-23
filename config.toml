@@ -5,6 +5,6 @@ canonifyurls = true
 [params]
 subTitle = "見切り発車Pが作った楽曲の情報サイト"
 author = "mi.ki.ri.hassha.p@gmail.com"
-dlPath = "mp3/"
+dlURL = "http://mymp3.mikiri.net/"
 [taxonomies]
 tag = "tags"

@@ -17,7 +17,7 @@
                 <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
               {{ end }}
             </ul>
-            {{.Site.BaseURL}} {{.Site.Params.DlPath}} {{ .Params.Dlfile }}
+            {{ .Site.Params.DlURL  }}{{ .Params.DlLink }}
 
           </article>
         {{ end }}
