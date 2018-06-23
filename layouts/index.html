@@ -7,7 +7,7 @@
     <section class="mainContents">
       <main class="cdrack">
         <article class="cd"><h2>{{ .Title }}の一覧</h2></article>
-        {{ range first 10 .Data.Pages }}
+        {{ range (.Paginator 22).Pages }}
           <article class="cd">
             <h3>
               <a href="{{.Permalink}}">
@@ -22,6 +22,19 @@
             <a href="{{ .Site.Params.DlURL  }}{{ .Params.DlPath }}">DL</a>
 
           </article>
+        {{ end }}
+        {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+          <article>
+
+            {{ if .Paginator.HasPrev }}
+            <a href="{{ .Paginator.Prev.URL }}">前へ</a>
+            {{ end }}
+            <span class="">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+            {{ if .Paginator.HasNext }}
+            <a href="{{ .Paginator.Next.URL }}">次へ</a>
+            {{ end }}
+
+        </article>
         {{ end }}
       </main>
 
