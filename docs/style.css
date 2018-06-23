@@ -78,7 +78,7 @@ body{
 }
 
 .cdrack>article{
-  background-color: rgba(255,128,128,0.5);
+  background-color: rgba(255,128,128,0.85);
 }
 
 .cdrack>article:nth-of-type(12n + 0){
