@@ -82,52 +82,52 @@ body{
 }
 
 .cdrack>article:nth-of-type(12n + 0){
-  backdrop-filter: hue-rotate(0deg);
+  filter: hue-rotate(0deg);
 }
 
 .cdrack>article:nth-of-type(12n + 1){
-  backdrop-filter: hue-rotate(30deg);
+  filter: hue-rotate(30deg);
 }
 
 .cdrack>article:nth-of-type(12n + 2){
-  backdrop-filter: hue-rotate(60deg);
+  filter: hue-rotate(60deg);
 }
 
 
 .cdrack>article:nth-of-type(12n + 3){
-  backdrop-filter: hue-rotate(90deg);
+  filter: hue-rotate(90deg);
 }
 
 .cdrack>article:nth-of-type(12n + 4){
-  backdrop-filter: hue-rotate(120deg);
+  filter: hue-rotate(120deg);
 }
 
 .cdrack>article:nth-of-type(12n + 5){
-  backdrop-filter: hue-rotate(150deg);
+  filter: hue-rotate(150deg);
 }
 
 .cdrack>article:nth-of-type(12n + 6){
-  backdrop-filter: hue-rotate(180deg);
+  filter: hue-rotate(180deg);
 }
 
 .cdrack>article:nth-of-type(12n + 7){
-  backdrop-filter: hue-rotate(210deg);
+  filter: hue-rotate(210deg);
 }
 
 .cdrack>article:nth-of-type(12n + 8){
-  backdrop-filter: hue-rotate(240deg);
+  filter: hue-rotate(240deg);
 }
 
 .cdrack>article:nth-of-type(12n + 9){
-  backdrop-filter: hue-rotate(270deg);
+  filter: hue-rotate(270deg);
 }
 
 .cdrack>article:nth-of-type(12n + 10){
-  backdrop-filter: hue-rotate(300deg);
+  filter: hue-rotate(300deg);
 }
 
 .cdrack>article:nth-of-type(12n + 11){
-  backdrop-filter: hue-rotate(330deg);
+  filter: hue-rotate(330deg);
 }
 
 .nav{
