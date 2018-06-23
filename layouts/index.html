@@ -1,10 +1,9 @@
 {{ partial "site_header.html" . }}
 <div class="wrapper">
 
+  {{ partial "content_header.html" . }}
 
-  <section class="contents">
 
-    {{ partial "content_header.html" . }}
     <section class="mainContents">
       <main>
         {{ range first 10 .Data.Pages }}
@@ -23,7 +22,6 @@
     </section>
     {{ partial "content_side.html" . }}
 
-  </section>
   {{ partial "content_footer.html" . }}
 
 </div>
