@@ -1,14 +1,13 @@
 <nav class="nav">
   <h2>データ</h2>
   <ul class="dataList">
-    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-      <li><h3>{{ $taxonomyname }}</h3>
+      <li><h3>タグ</h3>
         <ul class="taxList">
-          {{ range $key, $value := $taxonomy }}
-          <li> <a href="/{{ $taxonomyname | urlize }}/{{ $key | urlize }}">{{$key }} </a> </li>
+          {{ $SiteBaseURL := .Site.BaseURL }}
+          {{ range $key, $value := .Site.Taxonomies.tags.ByCount }}
+          <li><a href="{{ $SiteBaseURL }}tags/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> {{ $value.Count }} </li>
           {{ end }}
         </ul>
       </li>
-    {{ end }}
   </ul>
 </nav>
