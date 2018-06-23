@@ -4,7 +4,7 @@
       <li><a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
         <ul>
           {{ range $key, $value := $taxonomy }}
-          <li> <a href="/{{ $taxonomyname | urlize }}/{{ $key | urlize }}">$taxonomyname</a> </li>
+          <li> <a href="/{{ $taxonomyname | urlize }}/{{ $key | urlize }}">{{$key }} </a> </li>
           {{ end }}
         </ul>
       </li>
