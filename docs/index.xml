@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ミキリハッシャポータル</title>
-    <link>https://mi-ki-ri.github.io/portal/</link>
+    <link>https://portal.mikiri.net/</link>
     <description>Recent content on ミキリハッシャポータル</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Wed, 27 Jun 2018 15:37:25 +0900</lastBuildDate>
     
-	<atom:link href="https://mi-ki-ri.github.io/portal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://portal.mikiri.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aitai</title>
-      <link>https://mi-ki-ri.github.io/portal/aitai/</link>
+      <link>https://portal.mikiri.net/aitai/</link>
       <pubDate>Wed, 27 Jun 2018 15:37:25 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/aitai/</guid>
+      <guid>https://portal.mikiri.net/aitai/</guid>
       <description>作曲 思いっきりバラードを描いたバラード。
 作詞 ミクさん死んだっぽい。</description>
     </item>
     
     <item>
       <title>セナカアワセ</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%82%BB%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%AF%E3%82%BB/</link>
+      <link>https://portal.mikiri.net/%E3%82%BB%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%AF%E3%82%BB/</link>
       <pubDate>Wed, 27 Jun 2018 15:35:00 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%82%BB%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%AF%E3%82%BB/</guid>
+      <guid>https://portal.mikiri.net/%E3%82%BB%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%AF%E3%82%BB/</guid>
       <description>作曲 また分類がよくわからない曲。
 作詞 恨みや後悔を描いた曲も増えていく。</description>
     </item>
     
     <item>
       <title>寒空のペインター</title>
-      <link>https://mi-ki-ri.github.io/portal/%E5%AF%92%E7%A9%BA%E3%81%AE%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC/</link>
+      <link>https://portal.mikiri.net/%E5%AF%92%E7%A9%BA%E3%81%AE%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC/</link>
       <pubDate>Wed, 27 Jun 2018 15:32:02 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E5%AF%92%E7%A9%BA%E3%81%AE%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC/</guid>
+      <guid>https://portal.mikiri.net/%E5%AF%92%E7%A9%BA%E3%81%AE%E3%83%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC/</guid>
       <description>カントリーを意識？ たぶんこの頃アリソン・クラウスを聞いたんだったような？
 作曲 ピアノのアルペジオが決め手。
 作詞 ニール・ヤング「The Painter」を聞いたのだったような？</description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>地上の光はすべて人</title>
-      <link>https://mi-ki-ri.github.io/portal/%E5%9C%B0%E4%B8%8A%E3%81%AE%E5%85%89%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E4%BA%BA/</link>
+      <link>https://portal.mikiri.net/%E5%9C%B0%E4%B8%8A%E3%81%AE%E5%85%89%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E4%BA%BA/</link>
       <pubDate>Wed, 27 Jun 2018 15:28:06 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E5%9C%B0%E4%B8%8A%E3%81%AE%E5%85%89%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E4%BA%BA/</guid>
+      <guid>https://portal.mikiri.net/%E5%9C%B0%E4%B8%8A%E3%81%AE%E5%85%89%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E4%BA%BA/</guid>
       <description>便宜上ジャズ 便宜上ジャズにしたがなんか分類不能なサウンド。
 作曲 メジャーセブンスを主体にしたコードとメロディの絡みが面白い。
 作詞 「天の光はすべて星」から思いついたと思われるがそのわりに深い。</description>
@@ -55,10 +55,10 @@
     
     <item>
       <title>笑っていてね</title>
-      <link>https://mi-ki-ri.github.io/portal/%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E3%81%AD/</link>
+      <link>https://portal.mikiri.net/%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E3%81%AD/</link>
       <pubDate>Wed, 27 Jun 2018 15:25:09 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E3%81%AD/</guid>
+      <guid>https://portal.mikiri.net/%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E3%81%AD/</guid>
       <description>ストリングス導入 なんの音源だろう…音が太い。
 作曲 バラード多いなこの時期。
 作詞 歌詞が優しい。
@@ -67,10 +67,10 @@
     
     <item>
       <title>エクレア</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%82%A8%E3%82%AF%E3%83%AC%E3%82%A2/</link>
+      <link>https://portal.mikiri.net/%E3%82%A8%E3%82%AF%E3%83%AC%E3%82%A2/</link>
       <pubDate>Wed, 27 Jun 2018 15:22:10 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%82%A8%E3%82%AF%E3%83%AC%E3%82%A2/</guid>
+      <guid>https://portal.mikiri.net/%E3%82%A8%E3%82%AF%E3%83%AC%E3%82%A2/</guid>
       <description>エクレアは関係ない エクレアはちょっとしか出ない。そのへんのタイトルの感じは奥田民生に近い。
 作曲 ビートルズ直系のミディアムテンポ・ラブソング。
 作詞 「思わず合わせて/嘘つきが二人/二人だったなら/それもいい」って名言過ぎない？</description>
@@ -78,10 +78,10 @@
     
     <item>
       <title>あなたのアイラブユー</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%96%E3%83%A6%E3%83%BC/</link>
+      <link>https://portal.mikiri.net/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%96%E3%83%A6%E3%83%BC/</link>
       <pubDate>Wed, 27 Jun 2018 15:19:38 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%96%E3%83%A6%E3%83%BC/</guid>
+      <guid>https://portal.mikiri.net/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%96%E3%83%A6%E3%83%BC/</guid>
       <description>サビが斉藤和義っぽい アルペジオの感じとか。
 作曲 ベースの動きが楽しい。
 作詞 素直なラブソングでホッとする。</description>
@@ -89,10 +89,10 @@
     
     <item>
       <title>Pioneer</title>
-      <link>https://mi-ki-ri.github.io/portal/pioneer/</link>
+      <link>https://portal.mikiri.net/pioneer/</link>
       <pubDate>Wed, 27 Jun 2018 15:16:22 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/pioneer/</guid>
+      <guid>https://portal.mikiri.net/pioneer/</guid>
       <description>たぶんフォークロック たぶんニール・ヤングからの影響ではないだろうか。
 重たいビートが面白い。
 作曲 オルガンがいい。
@@ -101,10 +101,10 @@
     
     <item>
       <title>ダッシュボード</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89/</link>
+      <link>https://portal.mikiri.net/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89/</link>
       <pubDate>Wed, 27 Jun 2018 15:10:51 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89/</guid>
+      <guid>https://portal.mikiri.net/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89/</guid>
       <description>たぶん斉藤和義 たぶん斉藤和義の「ドライブ」を参考にしてそうな気がする。
 作曲 この時期はアレンジ小ネタが多い。
 転調やブレイクをうまく使っている。
@@ -113,10 +113,10 @@
     
     <item>
       <title>春よ、来いよ</title>
-      <link>https://mi-ki-ri.github.io/portal/%E6%98%A5%E3%82%88%E6%9D%A5%E3%81%84%E3%82%88/</link>
+      <link>https://portal.mikiri.net/%E6%98%A5%E3%82%88%E6%9D%A5%E3%81%84%E3%82%88/</link>
       <pubDate>Wed, 27 Jun 2018 15:07:27 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E6%98%A5%E3%82%88%E6%9D%A5%E3%81%84%E3%82%88/</guid>
+      <guid>https://portal.mikiri.net/%E6%98%A5%E3%82%88%E6%9D%A5%E3%81%84%E3%82%88/</guid>
       <description>ファンキー かなりファンキーなサウンドでびっくりした。
 16分がハネているのは久しぶり。
 作曲 ベースが楽しい。ブラスらしき音もいい。
@@ -125,10 +125,10 @@
     
     <item>
       <title>緑の休息</title>
-      <link>https://mi-ki-ri.github.io/portal/%E7%B7%91%E3%81%AE%E4%BC%91%E6%81%AF/</link>
+      <link>https://portal.mikiri.net/%E7%B7%91%E3%81%AE%E4%BC%91%E6%81%AF/</link>
       <pubDate>Wed, 27 Jun 2018 15:04:18 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E7%B7%91%E3%81%AE%E4%BC%91%E6%81%AF/</guid>
+      <guid>https://portal.mikiri.net/%E7%B7%91%E3%81%AE%E4%BC%91%E6%81%AF/</guid>
       <description>(オフの)ミクテーマソング 前回はミクのテーマソング的なものだったが、
 今回はミクがミクという役目を脱するというテーマっぽい。
 作曲 メロディの譜割りが不思議。
@@ -137,10 +137,10 @@
     
     <item>
       <title>Voice(Can You Hear)</title>
-      <link>https://mi-ki-ri.github.io/portal/voicecan-you-hear/</link>
+      <link>https://portal.mikiri.net/voicecan-you-hear/</link>
       <pubDate>Wed, 27 Jun 2018 15:01:04 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/voicecan-you-hear/</guid>
+      <guid>https://portal.mikiri.net/voicecan-you-hear/</guid>
       <description>ミクテーマ ミクさんが歌っているようなイメージの歌詞も今後増える。
 作曲 ジョンレノンの影響と思われるオーギュメントコードがポイント。
 あと終わり方がカッコいい。
@@ -149,10 +149,10 @@
     
     <item>
       <title>誰もがみんな愛の歌</title>
-      <link>https://mi-ki-ri.github.io/portal/%E8%AA%B0%E3%82%82%E3%81%8C%E3%81%BF%E3%82%93%E3%81%AA%E6%84%9B%E3%81%AE%E6%AD%8C/</link>
+      <link>https://portal.mikiri.net/%E8%AA%B0%E3%82%82%E3%81%8C%E3%81%BF%E3%82%93%E3%81%AA%E6%84%9B%E3%81%AE%E6%AD%8C/</link>
       <pubDate>Wed, 27 Jun 2018 14:57:14 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E8%AA%B0%E3%82%82%E3%81%8C%E3%81%BF%E3%82%93%E3%81%AA%E6%84%9B%E3%81%AE%E6%AD%8C/</guid>
+      <guid>https://portal.mikiri.net/%E8%AA%B0%E3%82%82%E3%81%8C%E3%81%BF%E3%82%93%E3%81%AA%E6%84%9B%E3%81%AE%E6%AD%8C/</guid>
       <description>オルガンが効いてる オルガンのこの感じはディランを意識しているのではなかろうか。
 作曲 フォークロック風のバラード？　というよくわからないジャンルの曲。
 作詞 音楽に救いを求める詩作も今後増える。</description>
@@ -160,10 +160,10 @@
     
     <item>
       <title>窓際少女とパンの日々</title>
-      <link>https://mi-ki-ri.github.io/portal/%E7%AA%93%E9%9A%9B%E5%B0%91%E5%A5%B3%E3%81%A8%E3%83%91%E3%83%B3%E3%81%AE%E6%97%A5%E3%80%85/</link>
+      <link>https://portal.mikiri.net/%E7%AA%93%E9%9A%9B%E5%B0%91%E5%A5%B3%E3%81%A8%E3%83%91%E3%83%B3%E3%81%AE%E6%97%A5%E3%80%85/</link>
       <pubDate>Wed, 27 Jun 2018 14:52:29 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E7%AA%93%E9%9A%9B%E5%B0%91%E5%A5%B3%E3%81%A8%E3%83%91%E3%83%B3%E3%81%AE%E6%97%A5%E3%80%85/</guid>
+      <guid>https://portal.mikiri.net/%E7%AA%93%E9%9A%9B%E5%B0%91%E5%A5%B3%E3%81%A8%E3%83%91%E3%83%B3%E3%81%AE%E6%97%A5%E3%80%85/</guid>
       <description>アコギ ブルースの影響がありそうな曲。
 とは言ってもかなり自己流の解釈が入っている。
 作曲 セブンスコードの響きが特徴的。
@@ -173,10 +173,10 @@
     
     <item>
       <title>今日は月曜日</title>
-      <link>https://mi-ki-ri.github.io/portal/%E4%BB%8A%E6%97%A5%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5/</link>
+      <link>https://portal.mikiri.net/%E4%BB%8A%E6%97%A5%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5/</link>
       <pubDate>Wed, 27 Jun 2018 14:48:54 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E4%BB%8A%E6%97%A5%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5/</guid>
+      <guid>https://portal.mikiri.net/%E4%BB%8A%E6%97%A5%E3%81%AF%E6%9C%88%E6%9B%9C%E6%97%A5/</guid>
       <description>ダウナー 斉藤和義の影響がありそうなダウナーなポップス。
 これからこの作風もちょくちょく出てくる。
 作曲 コード進行がけっこうポップなのがポイント。
@@ -185,10 +185,10 @@
     
     <item>
       <title>幸せにね</title>
-      <link>https://mi-ki-ri.github.io/portal/%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AD/</link>
+      <link>https://portal.mikiri.net/%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AD/</link>
       <pubDate>Sun, 24 Jun 2018 04:15:05 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AD/</guid>
+      <guid>https://portal.mikiri.net/%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AD/</guid>
       <description>恨み節 なんかあったの…？
 作曲 この時期はポップスならではのコード進行をしており、独特の魅力がある。
 作詞 振られた曲だがなんかディティールがある。
@@ -197,10 +197,10 @@
     
     <item>
       <title>オーマイガ(ール)</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%82%AA%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%AC%E3%83%BC%E3%83%AB/</link>
+      <link>https://portal.mikiri.net/%E3%82%AA%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%AC%E3%83%BC%E3%83%AB/</link>
       <pubDate>Sun, 24 Jun 2018 04:12:40 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%82%AA%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%AC%E3%83%BC%E3%83%AB/</guid>
+      <guid>https://portal.mikiri.net/%E3%82%AA%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%AC%E3%83%BC%E3%83%AB/</guid>
       <description>これはビートルズ初期 たぶんビートルズ初期。
 作曲 サブドミナントマイナーをうまく使っている。
 ラストのコードだけおしゃれなのも面白い。
@@ -209,10 +209,10 @@
     
     <item>
       <title>ウェディング・バラッド</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%82%A6%E3%82%A7%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%90%E3%83%A9%E3%83%83%E3%83%89/</link>
+      <link>https://portal.mikiri.net/%E3%82%A6%E3%82%A7%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%90%E3%83%A9%E3%83%83%E3%83%89/</link>
       <pubDate>Sun, 24 Jun 2018 04:09:40 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%82%A6%E3%82%A7%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%90%E3%83%A9%E3%83%83%E3%83%89/</guid>
+      <guid>https://portal.mikiri.net/%E3%82%A6%E3%82%A7%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%90%E3%83%A9%E3%83%83%E3%83%89/</guid>
       <description>ウェディング・ソング ボブ・ディランのウェディング・ソングが斉藤和義にタイトル借りされた頃の曲だと思う。
 作曲 歌うたいのバラッドからの影響が大きそう。
 でもギターはジョージ・ハリスンっぽい。
@@ -221,10 +221,10 @@
     
     <item>
       <title>もういいかい？</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%82%82%E3%81%86%E3%81%84%E3%81%84%E3%81%8B%E3%81%84/</link>
+      <link>https://portal.mikiri.net/%E3%82%82%E3%81%86%E3%81%84%E3%81%84%E3%81%8B%E3%81%84/</link>
       <pubDate>Sun, 24 Jun 2018 04:06:44 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%82%82%E3%81%86%E3%81%84%E3%81%84%E3%81%8B%E3%81%84/</guid>
+      <guid>https://portal.mikiri.net/%E3%82%82%E3%81%86%E3%81%84%E3%81%84%E3%81%8B%E3%81%84/</guid>
       <description>今につながる作風 同じコード進行で違ったメロディを作るのがやりたいようだ。
 作曲 オルガンがカッコいい。
 作詞 彼氏をカッコよく突っぱねる曲。こういうの最近書いてないな…。</description>
@@ -232,10 +232,10 @@
     
     <item>
       <title>好き</title>
-      <link>https://mi-ki-ri.github.io/portal/%E5%A5%BD%E3%81%8D/</link>
+      <link>https://portal.mikiri.net/%E5%A5%BD%E3%81%8D/</link>
       <pubDate>Sun, 24 Jun 2018 04:04:44 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E5%A5%BD%E3%81%8D/</guid>
+      <guid>https://portal.mikiri.net/%E5%A5%BD%E3%81%8D/</guid>
       <description>これもビートルズ風 ドラムいいわ〜。
 作曲 サビの転調が素晴らしい。
 作詞 珍しく普通にラブソングで気合が伺える。</description>
@@ -243,10 +243,10 @@
     
     <item>
       <title>夜空のスクーター</title>
-      <link>https://mi-ki-ri.github.io/portal/%E5%A4%9C%E7%A9%BA%E3%81%AE%E3%82%B9%E3%82%AF%E3%83%BC%E3%82%BF%E3%83%BC/</link>
+      <link>https://portal.mikiri.net/%E5%A4%9C%E7%A9%BA%E3%81%AE%E3%82%B9%E3%82%AF%E3%83%BC%E3%82%BF%E3%83%BC/</link>
       <pubDate>Sun, 24 Jun 2018 04:01:19 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E5%A4%9C%E7%A9%BA%E3%81%AE%E3%82%B9%E3%82%AF%E3%83%BC%E3%82%BF%E3%83%BC/</guid>
+      <guid>https://portal.mikiri.net/%E5%A4%9C%E7%A9%BA%E3%81%AE%E3%82%B9%E3%82%AF%E3%83%BC%E3%82%BF%E3%83%BC/</guid>
       <description>民生風？ いろんな人の影響受けてるなあ。
 ギターがとても下手だが勢いは感じられる。
 作曲 民生風な曲調になぜかトランペットが絡むという編曲センス。
@@ -255,10 +255,10 @@
     
     <item>
       <title>ポラリス</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9/</link>
+      <link>https://portal.mikiri.net/%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9/</link>
       <pubDate>Sun, 24 Jun 2018 03:58:27 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9/</guid>
+      <guid>https://portal.mikiri.net/%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9/</guid>
       <description>これは川本真琴かも ドーナッツのリングから影響受けてない？
 作曲 この時期は編曲がよく出来てる。
 作詞 自分自身のどうにもならなさと向き合っててえらい。</description>
@@ -266,10 +266,10 @@
     
     <item>
       <title>君は通り雨</title>
-      <link>https://mi-ki-ri.github.io/portal/%E5%90%9B%E3%81%AF%E9%80%9A%E3%82%8A%E9%9B%A8/</link>
+      <link>https://portal.mikiri.net/%E5%90%9B%E3%81%AF%E9%80%9A%E3%82%8A%E9%9B%A8/</link>
       <pubDate>Sun, 24 Jun 2018 03:52:35 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E5%90%9B%E3%81%AF%E9%80%9A%E3%82%8A%E9%9B%A8/</guid>
+      <guid>https://portal.mikiri.net/%E5%90%9B%E3%81%AF%E9%80%9A%E3%82%8A%E9%9B%A8/</guid>
       <description>ビートルズからの影響っぽい というかジョンレノンの某曲の影響では…？
 ピアノはビリー・プレストン風だけどちょっと耳に痛いかも。
 作曲 ジョンレノンの某曲を参考にしたからオーギュメントも使ってみようみたいな…？
@@ -278,10 +278,10 @@
     
     <item>
       <title>ニューデイグッデイ</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%87%E3%82%A4%E3%82%B0%E3%83%83%E3%83%87%E3%82%A4/</link>
+      <link>https://portal.mikiri.net/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%87%E3%82%A4%E3%82%B0%E3%83%83%E3%83%87%E3%82%A4/</link>
       <pubDate>Sun, 24 Jun 2018 03:49:11 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%87%E3%82%A4%E3%82%B0%E3%83%83%E3%83%87%E3%82%A4/</guid>
+      <guid>https://portal.mikiri.net/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%87%E3%82%A4%E3%82%B0%E3%83%83%E3%83%87%E3%82%A4/</guid>
       <description>ピアノが良い 打ち込み期のはずなんだけど…弾いたようなピアノだ。
 作曲 この時期はビートルズからの影響が大きい。
 この曲もそうで、どちらかと言えば演奏を後期のリンゴっぽいニュアンスでしている。
@@ -290,10 +290,10 @@
     
     <item>
       <title>39号</title>
-      <link>https://mi-ki-ri.github.io/portal/39%E5%8F%B7/</link>
+      <link>https://portal.mikiri.net/39%E5%8F%B7/</link>
       <pubDate>Sun, 24 Jun 2018 03:43:23 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/39%E5%8F%B7/</guid>
+      <guid>https://portal.mikiri.net/39%E5%8F%B7/</guid>
       <description>この時点では打ち込みだが… 打ち込みガンバってる。ベースとかカッコいい。
 作曲 壮大な自然を感じられるバラード。
 作詞 台風という強大な自然と、主人公たちとの距離感が面白い。</description>
@@ -301,10 +301,10 @@
     
     <item>
       <title>レッドレイン</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%83%AC%E3%83%83%E3%83%89%E3%83%AC%E3%82%A4%E3%83%B3/</link>
+      <link>https://portal.mikiri.net/%E3%83%AC%E3%83%83%E3%83%89%E3%83%AC%E3%82%A4%E3%83%B3/</link>
       <pubDate>Sun, 24 Jun 2018 03:37:38 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%83%AC%E3%83%83%E3%83%89%E3%83%AC%E3%82%A4%E3%83%B3/</guid>
+      <guid>https://portal.mikiri.net/%E3%83%AC%E3%83%83%E3%83%89%E3%83%AC%E3%82%A4%E3%83%B3/</guid>
       <description>かなりディラン風 たぶんチャーチリック奏法をやりたかったんだと思う。
 この時点では打ち込みなのでちょっと大変だったと思う。
 作曲 この時期独特のメロディの良さが際立つ。
@@ -314,10 +314,10 @@
     
     <item>
       <title>右手の行方</title>
-      <link>https://mi-ki-ri.github.io/portal/%E5%8F%B3%E6%89%8B%E3%81%AE%E8%A1%8C%E6%96%B9/</link>
+      <link>https://portal.mikiri.net/%E5%8F%B3%E6%89%8B%E3%81%AE%E8%A1%8C%E6%96%B9/</link>
       <pubDate>Sun, 24 Jun 2018 02:20:31 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E5%8F%B3%E6%89%8B%E3%81%AE%E8%A1%8C%E6%96%B9/</guid>
+      <guid>https://portal.mikiri.net/%E5%8F%B3%E6%89%8B%E3%81%AE%E8%A1%8C%E6%96%B9/</guid>
       <description>シャッフルしている 初期の自分に特徴的だったシャッフルが炸裂している。
 作曲 初期の自分はわりとポップな音楽性だったためか、メロディがとてもいいと思う。
 作詞 大したことは言っていないが、明るくていい。</description>
@@ -325,10 +325,10 @@
     
     <item>
       <title>ピルグリム</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%83%94%E3%83%AB%E3%82%B0%E3%83%AA%E3%83%A0/</link>
+      <link>https://portal.mikiri.net/%E3%83%94%E3%83%AB%E3%82%B0%E3%83%AA%E3%83%A0/</link>
       <pubDate>Sun, 24 Jun 2018 02:07:59 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%83%94%E3%83%AB%E3%82%B0%E3%83%AA%E3%83%A0/</guid>
+      <guid>https://portal.mikiri.net/%E3%83%94%E3%83%AB%E3%82%B0%E3%83%AA%E3%83%A0/</guid>
       <description>ピルグリム 斉藤和義の「郷愁」をイメージ 特にベースの「ダダダド」みたいなフレーズはそのまま。
 「郷愁」は電車に乗っている歌だったが、こちらはなにか旅をしているらしい。
 作曲 こういうマイナーは最近書いていないので新鮮味がある。
@@ -338,10 +338,10 @@
     
     <item>
       <title>今日の君は雨降り</title>
-      <link>https://mi-ki-ri.github.io/portal/%E4%BB%8A%E6%97%A5%E3%81%AE%E5%90%9B%E3%81%AF%E9%9B%A8%E9%99%8D%E3%82%8A/</link>
+      <link>https://portal.mikiri.net/%E4%BB%8A%E6%97%A5%E3%81%AE%E5%90%9B%E3%81%AF%E9%9B%A8%E9%99%8D%E3%82%8A/</link>
       <pubDate>Tue, 19 Jun 2018 00:34:56 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E4%BB%8A%E6%97%A5%E3%81%AE%E5%90%9B%E3%81%AF%E9%9B%A8%E9%99%8D%E3%82%8A/</guid>
+      <guid>https://portal.mikiri.net/%E4%BB%8A%E6%97%A5%E3%81%AE%E5%90%9B%E3%81%AF%E9%9B%A8%E9%99%8D%E3%82%8A/</guid>
       <description>今日の君は雨降り 手元ではもっとも古い曲 手元にあった(=サウンドクラウドにアップできた)中でもっとも古いと思われる楽曲。
 そのわりにわりとまともだった。
 Bメロの感じなんて、J-POPからけっこう離れてしまった今では出せなさそう。

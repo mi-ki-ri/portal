@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ジャズ on ミキリハッシャポータル</title>
-    <link>https://mi-ki-ri.github.io/portal/tags/%E3%82%B8%E3%83%A3%E3%82%BA/</link>
+    <link>https://portal.mikiri.net/tags/%E3%82%B8%E3%83%A3%E3%82%BA/</link>
     <description>Recent content in ジャズ on ミキリハッシャポータル</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Wed, 27 Jun 2018 15:35:00 +0900</lastBuildDate>
     
-	<atom:link href="https://mi-ki-ri.github.io/portal/tags/%E3%82%B8%E3%83%A3%E3%82%BA/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://portal.mikiri.net/tags/%E3%82%B8%E3%83%A3%E3%82%BA/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>セナカアワセ</title>
-      <link>https://mi-ki-ri.github.io/portal/%E3%82%BB%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%AF%E3%82%BB/</link>
+      <link>https://portal.mikiri.net/%E3%82%BB%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%AF%E3%82%BB/</link>
       <pubDate>Wed, 27 Jun 2018 15:35:00 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E3%82%BB%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%AF%E3%82%BB/</guid>
+      <guid>https://portal.mikiri.net/%E3%82%BB%E3%83%8A%E3%82%AB%E3%82%A2%E3%83%AF%E3%82%BB/</guid>
       <description>作曲 また分類がよくわからない曲。
 作詞 恨みや後悔を描いた曲も増えていく。</description>
     </item>
     
     <item>
       <title>地上の光はすべて人</title>
-      <link>https://mi-ki-ri.github.io/portal/%E5%9C%B0%E4%B8%8A%E3%81%AE%E5%85%89%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E4%BA%BA/</link>
+      <link>https://portal.mikiri.net/%E5%9C%B0%E4%B8%8A%E3%81%AE%E5%85%89%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E4%BA%BA/</link>
       <pubDate>Wed, 27 Jun 2018 15:28:06 +0900</pubDate>
       
-      <guid>https://mi-ki-ri.github.io/portal/%E5%9C%B0%E4%B8%8A%E3%81%AE%E5%85%89%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E4%BA%BA/</guid>
+      <guid>https://portal.mikiri.net/%E5%9C%B0%E4%B8%8A%E3%81%AE%E5%85%89%E3%81%AF%E3%81%99%E3%81%B9%E3%81%A6%E4%BA%BA/</guid>
       <description>便宜上ジャズ 便宜上ジャズにしたがなんか分類不能なサウンド。
 作曲 メジャーセブンスを主体にしたコードとメロディの絡みが面白い。
 作詞 「天の光はすべて星」から思いついたと思われるがそのわりに深い。</description>

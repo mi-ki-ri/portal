@@ -1,4 +1,4 @@
-baseURL = "https://mi-ki-ri.github.io/portal/"
+baseURL = "https://portal.mikiri.net/"
 languageCode = "jp"
 title = "ミキリハッシャポータル"
 canonifyurls = true
